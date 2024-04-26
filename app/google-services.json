@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927907466548",
+    "project_id": "slpagespoe",
+    "storage_bucket": "slpagespoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927907466548:android:89be894ba88d6dc6406961",
+        "android_client_info": {
+          "package_name": "com.kayodedaniel.signinloginpoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz2geOAKTR8KRaqCU1h1HEjdJpmi9Balc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
