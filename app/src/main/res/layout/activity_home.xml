@@ -17,7 +17,7 @@
         <!-- Add your main content UI elements here -->
 
     </RelativeLayout>
-
+<!--comment-->
     <!-- NavigationView view-->
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/nav_view"
